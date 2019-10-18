@@ -55,7 +55,7 @@ class Template extends React.Component {
           <Toolbar>
             <Typography variant="h5" color="inherit" style={styles.flex}>
               <Link to="/">
-                Startkit
+                SEO Skee
               </Link>
             </Typography>
             {AuthButton}
